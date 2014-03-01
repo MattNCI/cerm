@@ -1,0 +1,12 @@
+Lorem ipsum dolor sit amat...Lorem ipsum dolor sit amat...Lorem ipsum dolor sit amat...Lorem ipsum dolor sit amat...Lorem ipsum dolor sit amat...Lorem ipsum dolor sit amat...Lorem ipsum dolor sit amat...Lorem ipsum dolor sit amat...Lorem ipsum dolor sit amat...<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestAndEngine</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_guys">Hello guys!</string>
+    <string name="lorem">Lorem ipsum dolor sit amat...</string>
+    
+    <string />
+
+</resources>
