@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<previews>
+
+    <preview
+        name="pinball_splash_thumbnail"
+        activity="ie.nci.bshbise3.prj.andengine.pinball.Default_Activity"
+        config="layout-ldltr-sw320dp-w320dp-h533dp-normal-long-port-notnight-hdpi-finger-keyssoft-nokeys-navhidden-trackball-800x480-v10"
+        device="Nexus One"
+        devicestate="Portrait"
+        target="Android 2.3.3"
+        theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+    </preview>
+
+</previews>

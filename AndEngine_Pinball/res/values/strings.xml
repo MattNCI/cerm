@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndEngine_Pinball</string>
+    <string name="tst_app_start_welcome">Welcome to NCI Pinball! Checking device compatibility. Please standby...</string>
+    <string name="tst_app_resume_welcome">Back from the limbo. Please standby...</string>
+    <string name="dlg_unsupported_device_title">Device Not Supported!</string>
+    <string name="dlg_unsupported_device_message">Sorry, AndEngine cannot run on this device :(</string>
+    <string name="err_unsupported_device_message">Sorry, AndEngine cannot run on this device :(</string>
+    <string name="menu_play_caption">Play</string>
+    <string name="menu_options_caption">Options</string>
+    <string name="menu_about_caption">About</string>
+    <string name="menu_quit_caption">Quit</string>
+    <string name="app_view_base_activity">ie.nci.bshbise3.prj.andengine.pinball.GameActivity</string>
+    
+</resources>
