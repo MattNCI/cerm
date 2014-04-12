@@ -14,7 +14,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class Default_Activity extends Activity {
-
+// not used. see GameActivity.class
+	
 	// ### CONSTANTS ### //
 
 	private final int DLG_UNSUPPORTED_DEVICE = 0;
